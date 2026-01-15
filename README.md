@@ -53,6 +53,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
 
 <!-- Animated Footer Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&weight=700&size=40&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=less+is+more" alt="Footer Typography" />
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=less+is+more" alt="Footer Typography" />
 
 </div>
