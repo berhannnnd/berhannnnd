@@ -1,57 +1,87 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+intelligence%2C+one+agent+at+a+time." alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <em>Algorithm Engineer · AI Agent Developer · RAG Researcher</em>
-</p>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Hi,%20I'm%20Berhannnnd&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Algorithm%20Engineer%20%7C%20AI%20Agent%20Developer%20%7C%20RAG%20Researcher&descSize=16&descAlignY=52"/>
+
+<!-- Quote -->
+<br/>
+
+_"Building intelligence, one agent at a time."_
 
 <br/>
 
-### `> whoami`
+<!-- About Me -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```text
-A builder fascinated by the intersection of retrieval and generation.
-Currently exploring how to make machines understand context —
-not just words, but intent, structure, and the spaces between.
+### 🧠 About Me
+
+```python
+class Berhannnnd:
+    def __init__(self):
+        self.role = "Algorithm Engineer"
+        self.focus = ["RAG", "AI Agents", "LLM"]
+        self.languages = ["Python", "MATLAB", "R"]
+
+    def current_interests(self):
+        return [
+            "Retrieval-Augmented Generation",
+            "Multi-Agent Systems",
+            "Semantic Understanding",
+            "Context-Aware AI"
+        ]
 ```
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-### `> tech_stack`
+### 📊 GitHub Stats
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=berhannnnd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 
-<br/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=berhannnnd&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff"/>
 
-### `> current_focus`
-
-```yaml
-research:
-  - Retrieval-Augmented Generation
-  - Multi-Agent Systems
-  - Semantic Understanding
-
-building:
-  - Intelligent Retrieval Pipelines
-  - Context-Aware AI Agents
-```
+</td>
+</tr>
+</table>
 
 <br/>
 
-### `> stats`
+<!-- Tech Stack -->
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=berhannnnd&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berhannnnd&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9" />
+### 🛠️ Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
 <br/>
 
----
+<!-- Research Interests -->
 
-<p align="center">
-  <sub>「 less is more 」</sub>
+### 🔬 Research Interests
+
+<p>
+<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-667eea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖-Multi_Agent_Systems-764ba2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧩-Semantic_Understanding-f093fb?style=for-the-badge"/>
 </p>
+
+<br/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+<br/><br/>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
+
+</div>
