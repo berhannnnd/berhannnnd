@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Tagline Card -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+intelligence%2C+one+agent+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=600&size=24&duration=4000&pause=2000&color=667EEA&center=true&vCenter=true&width=500&lines=Life's+but+a+walking+shadow..." alt="Typing SVG" />
 
 <br/><br/>
 
