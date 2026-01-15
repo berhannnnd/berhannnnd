@@ -5,37 +5,24 @@
 
 <br/>
 
-<!-- Tagline Card -->
-<img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=600&size=24&duration=4000&pause=2000&color=667EEA&center=true&vCenter=true&width=500&lines=Life's+but+a+walking+shadow..." alt="Typing SVG" />
+<!-- Shakespeare Quote Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=600&size=24&duration=4000&pause=2000&color=667EEA&center=true&vCenter=true&width=600&lines=Life's+but+a+walking+shadow..." alt="Typing SVG" />
 
 <br/><br/>
 
 </div>
 
-<!-- About Section -->
-
-## 🎯 About Me
-
-<table>
-<tr>
-<td>
-
-- 🔬 **Research Focus**: Retrieval-Augmented Generation (RAG)
-- 🤖 **Building**: Intelligent Multi-Agent Systems
-- 🧠 **Exploring**: Context-aware AI & Semantic Understanding
-- 💡 **Goal**: Making AI truly understand, not just process
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Tech Stack -->
-
-## 🛠️ Tech Stack
+<!-- About Me & Tech Stack Combined -->
+<h2 align="center">About Me & Tech Stack</h2>
 
 <div align="center">
+
+- 🔬 **Research Focus** — Retrieval-Augmented Generation (RAG)
+- 🤖 **Building** — Intelligent Multi-Agent Systems
+- 🧠 **Exploring** — Context-aware AI & Semantic Understanding
+- 💡 **Goal** — Making AI truly understand, not just process
+
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -45,39 +32,19 @@
 
 <br/>
 
-<!-- Research Interests -->
-
-## 🔍 Research Interests
-
-<div align="center">
-
-|                     |                     |               |
-| :-----------------: | :-----------------: | :-----------: |
-|     🔍 **RAG**      |  🤖 **AI Agents**   |  🧠 **LLM**   |
-| Retrieval-Augmented | Multi-Agent Systems | Applications  |
-|     Generation      |   & Orchestration   | & Fine-tuning |
-
-</div>
-
-<br/>
-
 <!-- GitHub Activity -->
-
-## 📊 GitHub Activity
+<h2 align="center">GitHub Activity</h2>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=berhannnnd&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true&radius=16" width="95%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berhannnnd&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true&radius=16" width="95%"/>
 </div>
-
-<br/>
 
 <!-- Footer -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
 
-<sub>_"less is more"_</sub>
+<!-- Animated Footer Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=less+is+more;simplicity+is+sophistication" alt="Footer Typography" />
 
 </div>
