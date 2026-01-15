@@ -15,18 +15,23 @@
 <!-- About Me & Tech Stack Combined -->
 <h2 align="center">About Me & Tech Stack</h2>
 
-<div align="center">
+<br/>
 
-- 🔬 **Research Focus** — Retrieval-Augmented Generation (RAG)
-- 🤖 **Building** — Intelligent Multi-Agent Systems
-- 🧠 **Exploring** — Context-aware AI & Semantic Understanding
-- 💡 **Goal** — Making AI truly understand, not just process
+> - 🔬 **Research Focus** — Retrieval-Augmented Generation (RAG)
+> - 🤖 **Building** — Intelligent Multi-Agent Systems
+> - 🧠 **Exploring** — Context-aware AI & Semantic Understanding
+> - 💡 **Goal** — Making AI truly understand, not just process
 
 <br/>
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -38,8 +43,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=berhannnnd&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true&radius=16" width="95%"/>
 </div>
-
 <!-- Footer -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
