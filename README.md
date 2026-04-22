@@ -44,7 +44,11 @@
 <h2 align="center">GitHub Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berhannnnd&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true&radius=16" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berhannnnd/berhannnnd/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berhannnnd/berhannnnd/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/berhannnnd/berhannnnd/output/github-snake.svg" />
+  </picture>
 </div>
 <!-- Footer -->
 
